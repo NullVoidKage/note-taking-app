@@ -104,4 +104,3 @@ A RESTful API for managing notes with CRUD operations.
      ```
 
 You can test these endpoints using an API testing tool like Postman or use `curl` from the command line.
-# note-taking-app
